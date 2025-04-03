@@ -1,4 +1,3 @@
-# test c++  
 
 ```
 public int main(){
