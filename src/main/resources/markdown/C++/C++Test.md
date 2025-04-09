@@ -1,6 +1,6 @@
 
 ```
-public int main(){
+public int main() {
 	string test = x;
 	cout << test;
 	return 0;
