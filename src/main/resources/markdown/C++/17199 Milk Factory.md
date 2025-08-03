@@ -1,6 +1,6 @@
 ---
 createdAt: 2025-08-02T18:52:14.3633643
-modifiedAt: 2025-08-02T18:52:14.3633643
+modifiedAt: 2025-08-02T18:52:38.5065035
 ---
 - If there exists a station $i$ such that one can walk to station $i$ from any other station, then output the minimal such $i$. Otherwise, output −1.
 
